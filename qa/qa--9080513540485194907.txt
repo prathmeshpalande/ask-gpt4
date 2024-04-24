@@ -1,0 +1,5 @@
+
+            message = 'How are you?'
+
+            response = "I don't have feelings, but thanks for asking! How can I assist you today?"
+            
